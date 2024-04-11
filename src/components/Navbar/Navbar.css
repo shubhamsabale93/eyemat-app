@@ -1,0 +1,10 @@
+.Navbar{
+    height: 80px;
+    background-color:gray
+
+}
+.nav-items{
+    background-color: black;
+    color: white;
+    margin: 20px;
+}
