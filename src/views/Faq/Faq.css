@@ -1,0 +1,10 @@
+.faq-container{
+    display: flex;
+    justify-content: space-evenly;
+}
+.faq-items{
+    width: 450px;
+    border: 2px solid;
+    height: 500px;
+    margin-top: 50px;
+}

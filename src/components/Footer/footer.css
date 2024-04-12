@@ -1,0 +1,32 @@
+.footer{
+    height: 350px;
+    background-color:black;
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+.items{
+    width: 300px;
+    border: 2px solid white;
+}
+.logo-img{
+    width: 200px;
+    margin-top: 20px;
+}
+.links{
+    color: white;
+
+}
+.para-footer{
+    margin-top: 20px;
+    color: white;
+    font-size: 25px;
+    padding-left: 20px;
+    font-weight: bold;
+}
+.contact{
+    color: white;
+    font-size: 11px;
+    margin: 5px;
+    
+}

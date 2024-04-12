@@ -1,13 +1,25 @@
 import React from 'react'
 import Navbar from '../../components/Navbar/Navbar'
-
+import './Awards.css'
+import ImgCertificate from "./cer1.jpg"
+import Footer from '../../components/Footer/footer'
 function Awards() {
   return (
     <div>
       <Navbar/>
         
-        <h1>Awards</h1>
-    </div>
+        <p className='para'>Certificates</p>
+        <img src={ImgCertificate} className='image'/>
+
+        <Footer/>
+        
+          
+
+        </div>
+        
+
+    
+  
   )
 }
 

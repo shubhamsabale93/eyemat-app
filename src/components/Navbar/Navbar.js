@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom'
 import '../../../node_modules/bootstrap/dist/css/bootstrap.min.css'
 import './Navbar.css'
 
-function navbar() {
+function navbar(props) {
   return (
     <div className='Navbar'>
       
@@ -20,6 +20,8 @@ function navbar() {
         <Link to='/awards' className='nav-items'>Awards</Link>
 
     </div>
+    
+   
   )
 }
 
