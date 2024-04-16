@@ -1,0 +1,66 @@
+.form-container{
+    display: flex;
+    justify-content: space-evenly;
+}
+.form-items{
+    width: 600px;
+    border: 2px solid;
+    margin-top: 60px;
+}
+.contact-heading{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    margin-left: 10px;
+}
+.contact-items{
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+.input-box{
+    width: 450px;
+    margin-bottom: 10;
+}
+.input-box1{
+    width:450px;
+    height: 100px;
+}
+.content-form{
+    margin: 10px;
+
+}
+.form-btn{
+    width: 450px;
+    color: black;
+    background-color:#ACC33F;
+    margin-top: 50px;
+    border: 0px #ACC33F;
+    border-radius: 8px;
+    padding: 5px;
+
+}
+.paragraph-contact{
+    font-size: 11px;
+    font-weight: bold;
+    text-align: justify;
+    padding: 10px;
+}
+.form-btn2{
+    padding: 3px 20px;
+    color: white;
+    background-color: #69727d;
+    font-family: 'Times New Roman', Times, serif;
+    display: block;
+    margin: 0px auto;
+    border: 0px #69727d ;
+    border-radius: 2px;
+}
+.contact-container{
+    display: flex;
+    justify-content: space-evenly;
+}
+.contact-item{
+    width: 200px;
+    height: 200px;
+    border: 2px solid;
+}

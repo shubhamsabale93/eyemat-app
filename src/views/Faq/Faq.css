@@ -1,6 +1,5 @@
 .faq-container{
-    display: flex;
-    justify-content: space-evenly;
+   
 }
 .faq-items{
     width: 450px;

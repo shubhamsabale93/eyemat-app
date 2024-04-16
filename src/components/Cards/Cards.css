@@ -1,0 +1,28 @@
+.Cards-container{
+
+    
+    display: flex;
+    justify-content: space-evenly;
+    margin: 10px 30px;
+    
+
+}
+.items-cards{
+    height: 120px;
+    width: 190px;
+    border: 2px solid;
+    border: 2px solid;
+    border-radius: 8px;
+    margin: 10px;
+    background-color: black;
+    
+}
+.heading-cards{
+    font-size: 15px;
+    font-weight: bold;
+    color: white;
+    margin: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    
+}
