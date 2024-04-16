@@ -1,0 +1,11 @@
+.profile{
+    height:40px;
+    width:175px;
+    background-color:#5cb85c;
+    color:white;
+    border-radius:5px;
+    cursor:pointer;
+    display:flex;
+    align-items:center;
+    justify-content:space-evenly;
+}
