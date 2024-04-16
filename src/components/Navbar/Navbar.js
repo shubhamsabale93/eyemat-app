@@ -18,6 +18,7 @@ function navbar(props) {
         <Link to='/event' className='nav-items'>Events</Link>
         <Link to='/news' className='nav-items'>News</Link>
         <Link to='/awards' className='nav-items'>Awards</Link>
+        <Link to='/contact' className='nav-items'>Contacts</Link>
 
     </div>
     

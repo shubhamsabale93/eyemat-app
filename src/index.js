@@ -7,6 +7,8 @@ import Support1 from './views/Support/Support1/support1'
 import Awards from './views/Awards/Awards'
 import News from './views/News/News'
 import Event from './views/Event/Event';
+import Contact from './views/Contact/Contact'
+
 
 
 
@@ -44,6 +46,10 @@ const router = createBrowserRouter([
   path:'/event',
   element:<Event/>
 
+ },
+ {
+  path:'/contact',
+  element:<Contact/>
  }
  
  

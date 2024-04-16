@@ -1,0 +1,28 @@
+body{
+    background-color: white;
+}
+.section-container{
+    display: flex;
+    justify-content: space-evenly;
+}
+.section-items{
+    width: 500px;
+    
+
+}
+.section-heading{
+    font-size: 18px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.accordion-header{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+.accordion-body{
+    font-size: 14px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
