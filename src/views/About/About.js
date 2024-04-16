@@ -6,6 +6,7 @@ import './About.css'
 import Details from './Details'
 import Profile from './Profile'
 //import { useState } from 'react'
+
  
 
 function About() {
