@@ -8,6 +8,7 @@ import Awards from './views/Awards/Awards'
 import News from './views/News/News'
 import Event from './views/Event/Event';
 import Contact from './views/Contact/Contact'
+import Dealer from './views/Dealer/Dealer';
 
 
 
@@ -50,8 +51,11 @@ const router = createBrowserRouter([
  {
   path:'/contact',
   element:<Contact/>
+ },
+ {
+  path:'/dealer',
+  element:<Dealer/>
  }
- 
  
 ])
 root.render(

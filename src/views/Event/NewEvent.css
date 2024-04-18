@@ -1,0 +1,12 @@
+.newEvent{
+    padding:2rem;
+    height:450;
+    width:100%;
+    display:flex;
+    justify-content:space-around;
+    align-items:center;
+}
+.event-para{
+    width:40%;
+    text-align:justify;
+}
