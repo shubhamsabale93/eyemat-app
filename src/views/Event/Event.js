@@ -3,6 +3,7 @@ import Navbar from '../../components/Navbar/Navbar'
 import NewEvent from './NewEvent'
 import eventImg from './eventimg1.png'
 import Banner from '../../components/Banner/Banner'
+import Footer from '../../components/Footer/footer'
 
 
 function Event() {
@@ -13,6 +14,7 @@ function Event() {
       <Navbar/>
       <Banner title={"EVENTS"} subTitle={"HOME"} />
       <NewEvent imgSrc={eventImg} para={para}/>
+      <Footer/>
     </div>
   )
 }

@@ -1,7 +1,7 @@
 import React, {useState} from "react";
 import Navbar from "../../../components/Navbar/Navbar.js";
 import SimpleForm from "../Simpleform.js";
-import "./Support1.css";
+import "./support1.css";
 
 
 export default function Support1() {
