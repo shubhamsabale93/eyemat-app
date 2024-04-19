@@ -19,6 +19,7 @@ function navbar(props) {
         <Link to='/news' className='nav-items'>News</Link>
         <Link to='/awards' className='nav-items'>Awards</Link>
         <Link to='/contact' className='nav-items'>Contacts</Link>
+        <Link to='/dealer' className='nav-items'>Dealer</Link>
 
     </div>
     

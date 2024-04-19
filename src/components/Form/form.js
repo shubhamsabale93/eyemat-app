@@ -31,10 +31,18 @@ function form() {
                 <div className='contact-item'>
                     <p><b>Toll Free :</b>1800 210 3060</p>
                     <p><b>E-mail:</b>@eyematic.co.in,<br/>sales@eyematic.co.in</p>
-                    <p>Standard shipping
-                        <br/>on all orders.</p>
+                    <p><b>Standard shipping</b>
+                        <br/><b>on all orders.</b></p>
                 </div>
-                <div className='contact-item'></div>
+                <div className='contact-item'>
+                    <ul>
+                        <li>Monday to Friday</li>
+                        <li>9:00am-8:00pm EST</li>
+                    </ul>
+
+                    <p><b>Address:</b> Eyematic Electronics Pvt. Ltd., Office No. 123, Poornima Tower, 1st floor, Shankar Sheth Road, Pune- 411037</p>
+                    
+                </div>
             </div>
         </div>
     </div>

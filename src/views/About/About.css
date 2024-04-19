@@ -1,3 +1,7 @@
+*{
+    margin:0;
+    padding:0;
+}
 .main{
     display: flex;
     flex-direction:column;
@@ -113,6 +117,7 @@ details[open].causes-list{
 }
 .section{
     height:600px;
+    width:1519px !important;
     display:flex;
     justify-content:center;
     align-items:center;

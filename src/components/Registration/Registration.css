@@ -1,0 +1,33 @@
+*{
+    font-family: 'Poppins';
+}
+.rform-container{
+    height:360px;
+    display:flex;
+    flex-direction: column;
+    margin:1rem;
+    justify-content:space-evenly;
+}
+.rform-title{
+    font-weight:600;
+}
+.rform-btn{
+    margin-top:0.5rem;
+    height:40px;
+    color:white;
+    background-color:#f3f3f3;
+    border:none;
+    transition:1s ease;
+}
+.rform-btn:hover{
+    background-color:#69727d;
+}
+input{
+    height:40px;
+    padding:0 15px;
+    border:1px solid rgba(129, 129, 129, 0.50);
+}
+textarea{
+    padding:0 15px;
+    border:1px solid rgba(129, 129, 129, 0.50) 
+}
