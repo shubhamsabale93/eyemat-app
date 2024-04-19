@@ -5,6 +5,7 @@ import about1 from './about1.png'
 import './About.css'
 import Details from './Details'
 import Profile from './Profile'
+import Footer from '../../components/Footer/footer'
 //import { useState } from 'react'
 
  
@@ -280,6 +281,7 @@ function About() {
             </div>
              
         </div>
+        <Footer/>
     </div>
   )
 }
